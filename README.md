@@ -1,3 +1,8 @@
+# NOTE(Oct 2020): this proposal has been incorporated into the [WICG/turtledove](https://github.com/WICG/turtledove) and this repo is now archived.
+To see the latest version, or in case of questions, issues, suggestions, please head to WICG/turtledove.
+<br/> <br/> <br/> <br/>
+
+
 # Product-level Turtledove\*
 \*We focus on Turtledove for the sake of discussion, a "Product-level [Sparrow](https://github.com/WICG/sparrow)" is also feasible.
 
